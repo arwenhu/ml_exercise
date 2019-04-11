@@ -9,6 +9,6 @@ machine learning exercises
 - 使用多项式贝叶斯分类器，对训练集进行训练，并对测试集进行验证，给出测试集的准确率  
 
 ## crawl_douban_pictures
-极客时间|数据分析10讲 练习题 https://time.geekbang.org/column/article/76001
-**爬虫下载豆瓣刘亦菲图片**
-基于JSON对象解析，下载豆瓣图片
+极客时间|数据分析10讲 练习题 https://time.geekbang.org/column/article/76001  
+**爬虫下载豆瓣刘亦菲图片**  
+基于JSON对象解析，下载豆瓣图片  
