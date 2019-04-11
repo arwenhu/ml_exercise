@@ -8,4 +8,7 @@ machine learning exercises
 - 使用requests获取数据集，基于停用词和非中文字符进行分词，进而提取tfidf特征  
 - 使用多项式贝叶斯分类器，对训练集进行训练，并对测试集进行验证，给出测试集的准确率  
 
-
+## crawl_douban_pictures
+极客时间|数据分析10讲 练习题 https://time.geekbang.org/column/article/76001
+**爬虫下载豆瓣刘亦菲图片**
+基于JSON对象解析，下载豆瓣图片
