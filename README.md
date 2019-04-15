@@ -12,3 +12,8 @@ machine learning exercises
 极客时间|数据分析10讲 练习题 https://time.geekbang.org/column/article/76001  
 **爬虫下载豆瓣刘亦菲图片**  
 基于JSON对象解析，下载豆瓣图片  
+
+## crawl_douban_wordcloud
+极客时间|数据分析38讲 练习题 https://time.geekbang.org/column/article/85158  
+**爬虫获取豆瓣电影《海王》的影评，并作出词云**
+使用jieba对中文进行分词
